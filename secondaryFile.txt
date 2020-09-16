@@ -1,2 +1,3 @@
+some tex added
 second file
-ext added, some tex added
+ext added, 
